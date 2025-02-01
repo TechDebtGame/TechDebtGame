@@ -1,6 +1,3 @@
----
-feature: /v1/img/game_plane.png
----
 # TechDebt Game Manual
 
 ## Overview
