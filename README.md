@@ -26,7 +26,7 @@ For detailed rules, refer to the **[TechDebt Game Manual](./manual.md)**.
 ## Citation
 If you use this game in your research or teaching, please cite it as follows:
 
-> Wiese, M., Heinrichs, A., Rusieshvili, N., de Almeida, R. R., & Borowa, K. (2025). *TechDebt Game: A Board Game for Exploring Technical Debt Management*. In Proceedings of the 2025 International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada.
+> Wiese, M., Heinrichs, A., Rusieshvili, N., de Almeida, R. R., & Borowa, K. (2025). *TechDebt Game: A Board Game for Exploring Technical Debt Management*. In Proceedings of the 2025 IEEE/ACM International Conference on Technical Debt (TechDebt 2025), Ottawa, Ontario, Canada.
 
 ## Authors
 - **Marion Wiese** – University of Hamburg, Germany
