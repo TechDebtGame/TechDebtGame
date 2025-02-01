@@ -44,4 +44,4 @@ We welcome contributions and suggestions for improving the game. If you have ide
 The TechDebt Game is released under an open license for educational and research purposes. Please contact the authors for inquiries about adaptations or commercial use.
 
 ## Contact
-For questions or contributions, please contact **marion.wiese@uni-hamburg.de** or any of the listed authors.
+For questions or contributions, please contact **marion.wiese@uni-hamburg.de**.
