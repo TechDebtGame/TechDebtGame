@@ -35,6 +35,11 @@ If you use this game in your research or teaching, please cite it as follows:
 - **Rodrigo Rebouças de Almeida** – Federal University of Paraíba, Brazil
 - **Klara Borowa** – Warsaw University of Technology, Poland
 
+
+## Contributing
+We welcome contributions and suggestions for improving the game. If you have ideas or enhancements, please create an issue in our GitHub repository: **[TechDebt Game Issues](https://github.com/TechDebtGame/TechDebtGame/issues)**.
+
+
 ## License
 The TechDebt Game is released under an open license for educational and research purposes. Please contact the authors for inquiries about adaptations or commercial use.
 
